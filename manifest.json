@@ -1,0 +1,17 @@
+{
+    "name": "BIB Is BIBWTE Without The End",
+    "short_name": "BIB",
+    "description": "BIB helps friends and communities to share their favorite books, games and tools.",
+    "background_color": "#0d085c",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#0d085c",
+    "icons": [
+        {
+            "src": "/components/images/favicon.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ]
+}
